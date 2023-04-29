@@ -1,4 +1,4 @@
-Code For Metric-Based Meta-Learning for Few-Shot Named Entity Recognition: A Simple Span Prototypical Network
+Code For Less is more: A Prototypical framework for Efficient Few-Shot Named Entity Recognition
 
 
 ## Enviroment
@@ -70,7 +70,7 @@ fi
 ```
 run `bash seed_fewnerd.sh inter span` to run four expriments on Few-NERD inter split using our model
 ### SNIPS
-create `seed_fewnerd.sh`
+create `seed_snips.sh`
 ```
 #!/bin/bash
 model=$1
