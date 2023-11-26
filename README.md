@@ -1,4 +1,4 @@
-Code For Less is more: A Prototypical framework for Efficient Few-Shot Named Entity Recognition
+Code For [Less is more: A Prototypical framework for Efficient Few-Shot Named Entity Recognition](https://github.com/nsndimt/SSP/blob/main/NLDB2023.pdf)
 
 
 ## Enviroment
