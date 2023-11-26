@@ -94,4 +94,5 @@ done
 ```
 run `bash seed_snips.sh span` to run all expriments on the 7 domain of SNIPS with both 1-shot and 5-shot using our model
 
-
+## Contact
+Please create an issue or email to zhangyue@udel.edu should you have any questions.
